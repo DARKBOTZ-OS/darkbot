@@ -34,7 +34,7 @@
 - Get All The Necessary Variables And Deploy To Heroku.
 - Some Mandatory Variables Are listed [Here](#Variables).
 - click on below button to deploy to heroku.
-- [![Deploy](heroku.com/deploy?template=https://github.com/DARKBOTZ-OS/darkbot)
+- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DARKBOTZ-OS/darkbot.git)
 
 ------
 ## Deploy Locally
