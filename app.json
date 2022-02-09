@@ -11,7 +11,7 @@
     "modular",
     "productivity"
     
-  "repository": "https://github.com/DARKBOTZ-OS/darkbot.git/",
+  "repository": "https://github.com/DARKBOTZ-OS/darkbot/",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable heroku.",
@@ -58,6 +58,7 @@
     },
     "DARKBOT_SESSION": {
       "description": "Get this value by using @Dark_Session_Bot
+    },
     "HEROKU_API_KEY": {
       "description": "Go to https://dashboard.heroku.com/account, scroll down and press Reveal API. Required for updater to work.",
       "value": ""
