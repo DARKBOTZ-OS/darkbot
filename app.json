@@ -11,7 +11,7 @@
     "modular",
     "productivity"
     
-  "repository": "https://github.com/DARKBOTZ-OS/DarkBot/",
+  "repository": "https://github.com/DARKBOTZ-OS/darkbot/",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable heroku.",
