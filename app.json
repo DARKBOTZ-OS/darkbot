@@ -1,17 +1,17 @@
 {
   "name": "∂αяквσт",
   "description": "∂αяквσт is one of the Best UserBot for managing ur  Telegram account. Known for its Smoothness, Design, Support.",
-  "logo": "https://telegra.ph/file/fd93f6309369694e71644.jpg ",
+  "logo": "",
   "keywords": [
     "telegram",
     "userbot",
     "plugin",
     "telethon",
-    "hellbot",
+    "darkbot",
     "modular",
     "productivity"
     
-  "repository": "https://github.com/DARKBOTZ-OS/darkbot/",
+  "repository": "https://github.com/DARKBOTZ-OS/darkbot.git/",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable heroku.",
