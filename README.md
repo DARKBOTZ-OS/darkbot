@@ -15,14 +15,14 @@
 </h3>
 
 ------
-[![GitHub forks](https://img.shields.io/github/forks/DARKBOTZ-OS/darkBot?&style=flat-square&logo=github)](https://github.com/DARKBOTZ-OS/DarkBot/fork)
-[![GitHub stars](https://img.shields.io/github/stars/DARKBOTZ-OS/darkBot?&style=flat-square&logo=github)](https://github.com/DARKBOTZ-OS/DarkBot/stargazers)
-![Repo Size](https://img.shields.io/github/repo-size/DARKBOTZ-OS/darkBot?&style=flat-square&logo=github)
+[![GitHub forks](https://img.shields.io/github/forks/DARKBOTZ-OS/darkbot?&style=flat-square&logo=github)](https://github.com/DARKBOTZ-OS/darkbot/fork)
+[![GitHub stars](https://img.shields.io/github/stars/DARKBOTZ-OS/darkbot?&style=flat-square&logo=github)](https://github.com/DARKBOTZ-OS/darkbot/stargazers)
+![Repo Size](https://img.shields.io/github/repo-size/DARKBOTZ-OS/darkbot?&style=flat-square&logo=github)
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green?&style=flat-square)
-[![GitHub license](https://img.shields.io/github/license/DARKBOTZ-OS/darkBot?&style=flat-square&logo=github)](https://github.com/DARKBOTZ-OS/DarkBot/blob/master/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/DARKBOTZ-OS/darkbot?&style=flat-square&logo=github)](https://github.com/DARKBOTZ-OS/darkbot/blob/master/LICENSE)
 [![Python](https://img.shields.io/badge/Python-v3.9-blue)](https://www.python.org/)
 ![Branch](https://img.shields.io/badge/Branch-Master-orange)
-![GitHub language count](https://img.shields.io/github/languages/count/DARKBOTZ-OS/DarkBot?color=Pink&label=Language&style=flat-square)
+![GitHub language count](https://img.shields.io/github/languages/count/DARKBOTZ-OS/darkBot?color=Pink&label=Language&style=flat-square)
 
 ------
 ## Telegram 🏪
@@ -34,7 +34,7 @@
 - Get All The Necessary Variables And Deploy To Heroku.
 - Some Mandatory Variables Are listed [Here](#Variables).
 - click on below button to deploy to heroku.
-- [![Deploy](heroku.com/deploy?template=https://github.com/DARKBOTZ-OS/DARKBOT)
+- [![Deploy](heroku.com/deploy?template=https://github.com/DARKBOTZ-OS/darkbot)
 
 ------
 ## Deploy Locally
