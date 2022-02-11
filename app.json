@@ -1,7 +1,7 @@
 {
-  "name": "Hêllẞø†",
-  "description": "Hêllẞø† is one of the Best UserBot for Telegram. Known for its Smoothness, Design, Support.",
-  "logo": "https://telegra.ph/file/7decf235312af8536e9aa.jpg ",
+  "name": "∂αякẞø†",
+  "description": "∂αякẞø† is one of the Best UserBot for Telegram. Known for its Smoothness, Support.",
+  "logo": "https://telegra.ph/file/fd93f6309369694e71644.jpg ",
   "keywords": [
     "telegram",
     "userbot",
@@ -11,24 +11,24 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/The-HellBot/HellBot/",
+  "repository": "https://github.com/DARKBOTZ-OS/darkbot/",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable heroku.",
       "value": "ANYTHING"
     },
     "YOUR_NAME": {
-      "description": "Fill Your Telegram Name. Default Value is Hêll. Required for reverting after clone.",
-      "value": "『ℌєℓℓ』",
+      "description": "Fill Your Telegram Name. Default Value is Dark. Required for reverting after clone.",
+      "value": "∂αяк",
       "required": false
     },
     "PROFANITY": {
-      "description": "Leave it blank if you dont want Profanity in HellBot. Else Fill ON.",
+      "description": "Leave it blank if you dont want Profanity in DarkBot. Else Fill ON.",
       "value": "ON",
       "required": false
     },
     "PM_LOG_ID": {
-      "description": "Fill your private Channel ID if you want to Log PM messages. Get channel id from @HELL_ID_BOT",
+      "description": "Fill your private Channel ID if you want to Log PM messages. Get channel id from @missrose_bot",
       "value": "",
       "required": false
     },
@@ -53,11 +53,11 @@
       "value": ""
     },
     "LOGGER_ID": {
-      "description": "Create a private channel. And get it's id from @HELL_ID_BOT and paste here. Value should start with -100",
+      "description": "Create a private channel. And get it's id from @missrose_bot and paste here. Value should start with -100",
       "value": ""
     },
     "HELLBOT_SESSION": {
-      "description": "Get this value by using repl or termux. Refer to Repo for more info.",
+      "description": "Get this value by using @DarkSession_bot.",
       "value": ""
     },
     "HEROKU_API_KEY": {
