@@ -1,34 +1,34 @@
 {
-  "name": "∂αяквσт",
-  "description": "∂αяквσт is one of the Best UserBot for managing ur  Telegram account. Known for its Smoothness, Design, Support.",
-  "logo": "",
+  "name": "Hêllẞø†",
+  "description": "Hêllẞø† is one of the Best UserBot for Telegram. Known for its Smoothness, Design, Support.",
+  "logo": "https://telegra.ph/file/7decf235312af8536e9aa.jpg ",
   "keywords": [
     "telegram",
     "userbot",
     "plugin",
     "telethon",
-    "darkbot",
+    "hellbot",
     "modular",
     "productivity"
-    
-  "repository": "https://github.com/DARKBOTZ-OS/darkbot/",
+  ],
+  "repository": "https://github.com/The-HellBot/HellBot/",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable heroku.",
       "value": "ANYTHING"
     },
     "YOUR_NAME": {
-      "description": "Fill Your Telegram Name. Default Value is Dark. Required for reverting after clone.",
-      "value": "∂αяк",
+      "description": "Fill Your Telegram Name. Default Value is Hêll. Required for reverting after clone.",
+      "value": "『ℌєℓℓ』",
       "required": false
     },
     "PROFANITY": {
-      "description": "Leave it blank if you dont want Profanity in DarkBot. Else Fill ON.",
+      "description": "Leave it blank if you dont want Profanity in HellBot. Else Fill ON.",
       "value": "ON",
       "required": false
     },
     "PM_LOG_ID": {
-      "description": "Fill your private Channel ID if you want to Log PM messages. Get channel id from @MissRose_bot",
+      "description": "Fill your private Channel ID if you want to Log PM messages. Get channel id from @HELL_ID_BOT",
       "value": "",
       "required": false
     },
@@ -53,11 +53,12 @@
       "value": ""
     },
     "LOGGER_ID": {
-      "description": "Create a private channel. And get it's id from @MissRose_bot and paste here. Value should start with -100",
+      "description": "Create a private channel. And get it's id from @HELL_ID_BOT and paste here. Value should start with -100",
       "value": ""
     },
-    "DARKBOT_SESSION": {
-      "description": "Get this value by using @Dark_SessionBot"
+    "HELLBOT_SESSION": {
+      "description": "Get this value by using repl or termux. Refer to Repo for more info.",
+      "value": ""
     },
     "HEROKU_API_KEY": {
       "description": "Go to https://dashboard.heroku.com/account, scroll down and press Reveal API. Required for updater to work.",
