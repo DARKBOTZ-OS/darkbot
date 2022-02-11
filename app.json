@@ -27,7 +27,7 @@
       "value": "ON",
       "required": false
     },
-    "LOGGER_ID": {
+    "PM_LOG_ID": {
       "description": "Fill your private Channel ID if you want to Log PM messages. Get channel id from @MissRose_bot",
       "value": "",
       "required": false
