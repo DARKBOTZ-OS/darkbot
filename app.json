@@ -56,7 +56,7 @@
       "description": "Create a private channel. And get it's id from @missrose_bot and paste here. Value should start with -100",
       "value": ""
     },
-    "HELLBOT_SESSION": {
+    "DARKBOT_SESSION": {
       "description": "Get this value by using @DarkSession_bot.",
       "value": ""
     },
